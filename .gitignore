@@ -11,3 +11,11 @@ models/ps3_seq2seq_lstm.keras
 
 # macOS
 .DS_Store
+# Local AI-tool folders
+.agents/
+.claude/
+
+# Artifacts of non-final models
+models/ps2_bilstm_aux.joblib
+models/ps2_vocab.json
+reports/ps3_lstm_samples.csv
